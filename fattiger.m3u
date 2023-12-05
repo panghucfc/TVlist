@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,纬来体育
+http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1,珠江台
+http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
